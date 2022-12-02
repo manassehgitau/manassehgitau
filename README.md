@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @kimanigitau01
+- 👋 Hi, I’m Manasseh Gitau
 - 👀 I’m interested in IoT, machine learning and robotics programming
-- 🌱 I’m currently learning  machine learning
-- 💞️ I’m looking to collaborate on industrial and biomehatronics
+- 🌱 I’m currently  into machine learning and embedded systems Engineering
+- 💞️ I’m looking to collaborate on industrial robotics, Machine learning and IoT
 - 📫 How to reach me https://www.linkedin.com/in/manasseh-gitau-756726224/
 
 <!---
