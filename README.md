@@ -1,7 +1,7 @@
 # 👋 Hi, I’m **Manasseh Gitau** 🇰🇪,
 
 &nbsp;
-## 🎓 A mechatronics engineer student with a passion for tech
+## 🎓 A mechatronics engineering student with a passion for tech
 
 - 👍 I'm good at working in the linux environment🐧, gnerally software development :computer:
 - 👀 I’m interested in the Internet of Things, embedded Systems engineering 📡 and Robotics 🤖 🚀.
