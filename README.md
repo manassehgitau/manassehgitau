@@ -17,8 +17,8 @@ ___
 ### Top used languages
 [![Manasseh's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimanigitau01&langs_count=10&layout=compact&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 ___
-<!---### Wakatime Stats
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=kimanigitau01&layout=compact&theme=merko)](https://github.com/anuraghazra/github-readme-stats) --->
+### Wakatime Stats
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=kimanigitau01&layout=compact&theme=merko)](https://github.com/anuraghazra/github-readme-stats) 
 <!---
 kimanigitau01/kimanigitau01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
