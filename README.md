@@ -3,7 +3,7 @@
 &nbsp;
 ## 🎓 A mechatronics engineering student with a passion for tech
 
-- 👍 I'm good at working in the linux environment🐧, gnerally software development :computer:
+- 👍 I'm good at working in the linux environment🐧, generally software development :computer:
 - 👀 I’m interested in the Internet of Things, embedded Systems engineering 📡 and Robotics 🤖 🚀.
 - 🌱 I’m currently  into `IoT` and `robotics`
 - 💞️ I’m looking to collaborate on `python, c++, IoT and embedded systems development` :robot:.
