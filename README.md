@@ -10,6 +10,7 @@
 - 📫 How to reach me <a href="https://twitter.com/GitauManasseh"><img src="https://img.shields.io/twitter/follow/GitauManasseh?label=@GitauManasseh&style=social" alt="Twitter"></a>, <a href="https://www.linkedin.com/in/manasseh-gitau-756726224/"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a> **or alternatively through** gitaumanasseh1@gmail.com
  ___
 ##  facts :muscle: ⚡
+[![wakatime](https://wakatime.com/badge/user/c0b3adf6-795f-45f4-a74b-06e67cabb53a.svg)](https://wakatime.com/@c0b3adf6-795f-45f4-a74b-06e67cabb53a)
 ___
 ### Github Statistics
 [![Manasseh's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimanigitau01&show_icons=True&hide_border=false&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
