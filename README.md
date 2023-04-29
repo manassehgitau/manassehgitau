@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/GitauManasseh" target="blank"><img src="https://img.shields.io/twitter/follow/GitauManasseh?logo=twitter&style=for-the-badge" alt="GitauManasseh" /></a> </p>
 
-- 🔭 I’m currently working on [kinematics library, embedded systems and IoT technology](https://github.com/kimanigitau01/Kinematics_lib.git)
+- 🔭 I’m currently working on [kinematics library](https://github.com/kimanigitau01/Kinematics_lib.git)
 
 - 🌱 I’m currently learning **Qt, Go, IoT architecture and pcb design**
 
