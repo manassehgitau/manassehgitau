@@ -7,6 +7,8 @@
 
 <p align="left"> <a href="https://twitter.com/GitauManasseh" target="blank"><img src="https://img.shields.io/twitter/follow/GitauManasseh?logo=twitter&style=for-the-badge" alt="GitauManasseh" /></a> </p>
 
+<a href="https://wakatime.com/@c0b3adf6-795f-45f4-a74b-06e67cabb53a"><img src="https://wakatime.com/badge/user/c0b3adf6-795f-45f4-a74b-06e67cabb53a.svg" alt="Total time coded since Feb 3 2023" /></a>
+
 - 🔭 I’m currently working on [kinematics library](https://github.com/kimanigitau01/Kinematics_lib.git)
 
 - 🌱 I’m currently learning **Qt, Go, IoT architecture and pcb design**
