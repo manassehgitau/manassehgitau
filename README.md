@@ -23,7 +23,7 @@
 
 - 📫 How to reach me **gitaumanasseh1@gmail.com**
 
-- ⚡ Fun fact **perpertual Motion is my daily routine**
+- ⚡ Fun fact **perpetual Motion is my daily routine**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
