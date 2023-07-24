@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Manasseh Gitau</h1>
 <h3 align="center">A passionate embedded systems engineer from kenya studying Mechatronics Engineering.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kimanigitau01&label=Profile%20views&color=0e75b6&style=flat" alt="kimanigitau01" /> </p>
+[![Repos Badge](https://badges.pufler.dev/repos/kimanigitau01)]()
+[![Visits Badge](https://badges.pufler.dev/visits/kimanigitau01/badge-it)]()
+[![Years Badge](https://badges.pufler.dev/years/kimanigitau01)]()
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kimanigitau01" alt="kimanigitau01" /></a> </p> -->
 
