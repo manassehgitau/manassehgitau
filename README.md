@@ -2,8 +2,8 @@
 <h3 align="center">A passionate embedded systems engineer from kenya studying Mechatronics Engineering.</h3>
 
 [![Repos Badge](https://badges.pufler.dev/repos/kimanigitau01)]()
-[![Visits Badge](https://badges.pufler.dev/visits/kimanigitau01/badge-it)]()
 [![Years Badge](https://badges.pufler.dev/years/kimanigitau01)]()
+<!--- [![Visits Badge](https://badges.pufler.dev/visits/kimanigitau01/badge-it)]() -->
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kimanigitau01" alt="kimanigitau01" /></a> </p> -->
 
