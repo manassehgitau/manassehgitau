@@ -11,7 +11,7 @@
 
 <a href="https://wakatime.com/@c0b3adf6-795f-45f4-a74b-06e67cabb53a"><img src="https://wakatime.com/badge/user/c0b3adf6-795f-45f4-a74b-06e67cabb53a.svg" alt="Total time coded since Feb 3 2023" /></a>
 
-- 🔭 I’m currently working on [SmartGarden]([https://github.com/kimanigitau01/SmartGarden.git](https://github.com/TechInnovateHub/SmartGarden.git))
+- 🔭 I’m currently working on [SmartGarden](https://github.com/TechInnovateHub/SmartGarden.git)
 
 - 🌱 I’m currently learning **Qt, Go, IoT architecture and pcb design**
 
