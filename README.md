@@ -52,7 +52,7 @@
         <img align="center" 
         src="https://github-readme-stats.vercel.app/api/wakatime?username=kimanigitau01&layout=compact&theme=tokyonight" alt="kimanigitau01"/>
         <br><br>
-        <a href="https://github.com/juliamuiruri4">
+        <a href="https://github.com/kimanigitau01">
             <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kimanigitau01&theme=tokyonight" alt="kimanigitau01"/>
         </a>
     </p>
