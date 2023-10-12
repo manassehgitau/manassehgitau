@@ -4,13 +4,13 @@
 
 <p align="left"> <a href="https://twitter.com/GitauManasseh" target="blank"><img src="https://img.shields.io/twitter/follow/GitauManasseh?logo=twitter&style=for-the-badge" alt="GitauManasseh" /></a> </p>
 
-- 🔭 I’m currently working on [SmartGarden](https://github.com/TechInnovateHub/SmartGarden.git)
+- 🔭 I’m currently working on 
 
 - 🌱 I’m currently learning **pcb design, web development and  IoT protocols**
 
 - 👯 I’m looking to collaborate on **Robotics, pcb design, web development and IoT based projects**
 
-- 🤝 I’m looking for help with **front end development**
+- 🤝 I’m looking for help with front-end development.
 
 - 📝 I regularly write articles on [Medium](https://medium.com/)
 
