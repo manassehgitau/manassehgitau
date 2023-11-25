@@ -6,15 +6,15 @@
 
 - 🔭 I’m currently working on 
 
-- 🌱 I’m currently learning **pcb design, web development and  IoT protocols**
+- 🌱 I’m currently learning **pcb design, web development, and  IoT protocols**
 
-- 👯 I’m looking to collaborate on **Robotics, pcb design, web development and IoT based projects**
+- 👯 I’m looking to collaborate on **Robotics, PCB design, web development, and IoT-based projects**
 
 - 🤝 I’m looking for help with front-end development.
 
 - 📝 I regularly write articles on [Medium](https://medium.com/)
 
-- 💬 Ask me about **web development,embedded systems and embedded software development**
+- 💬 Ask me about **web development, IoT, web development systems and embedded software development**
 
 - ⚡ Fun fact **perpetual Motion is my daily routine**
 ___
