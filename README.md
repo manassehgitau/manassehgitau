@@ -18,7 +18,6 @@
 ___
 <h3 align="left">My Tech Stack 💻🤓 </h3>
 
-<h4 align="left">Embedded Systems and Electronics Tinkering :electron:🔌: </h4>
 <p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://kicad-pcb.org/" target="_blank"><img src="https://cdn.icon-icons.com/icons2/1381/PNG/512/kicad_94309.png" alt="KiCad" width="50" height="50"></a><a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a></p>
 
 ---
@@ -30,13 +29,13 @@ ___
     </summary>
     <br>
     <p align="center">
-        <a href="https://github.com/kimanigitau01">
+<!--         <a href="https://github.com/kimanigitau01">
             <img align="center"  
             height="175px" 
             src="https://github-readme-stats.vercel.app/api/top-langs?username=tyke01&show_icons=true&count_private=true&locale=en&layout=compact&theme=tokyonight" alt="kimanigitau01" 
             height="192px" 
             width="49.5%"/>
-        </a>
+        </a> -->
         <a href="https://github.com/kimanigitau01">
             <img align="center" 
             height="175px"  
@@ -48,9 +47,9 @@ ___
         <img align="center" 
         src="https://github-readme-stats.vercel.app/api/wakatime?username=kimanigitau01&layout=compact&theme=tokyonight" alt="kimanigitau01"/>
         <br><br>
-        <a href="https://github.com/kimanigitau01">
+<!--         <a href="https://github.com/kimanigitau01">
             <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kimanigitau01&theme=tokyonight" alt="kimanigitau01"/>
-        </a>
+        </a> -->
     </p>
  
 <details align="right">
