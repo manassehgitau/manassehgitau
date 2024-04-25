@@ -12,7 +12,7 @@
 
 - 📝 I regularly write articles on [Medium](https://medium.com/)
 
-- 💬 Ask me about **web development, IoT, product design and embedded software development**
+- 💬 Ask me about **IoT development, product design and embedded systems.**
 
 - ⚡ Fun fact **perpetual Motion is my daily routine**
 ___
