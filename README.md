@@ -4,11 +4,11 @@
 
 - 🔭 I’m currently working on Waba Yangu
 
-- 🌱 I’m currently learning **pcb design, embedded systems and  IoT**
+- 🌱 I’m currently learning **PCB design, embedded systems and  IoT**
 
-- 👯 I’m looking to collaborate on **Robotics, PCB design, and IoT-based projects**
+- 👯 I’m looking to collaborate on **Robotics, PCB design, product design and IoT-based projects**
 
-- 🤝 I’m looking for help with IoT.
+- 🤝 I’m looking for help with embedded hardware.
 
 - 📝 I regularly write articles on [Medium](https://medium.com/)
 
@@ -36,12 +36,12 @@ ___
             height="192px" 
             width="49.5%"/>
         </a> -->
-        <a href="https://github.com/kimanigitau01">
+<!--         <a href="https://github.com/kimanigitau01">
             <img align="center" 
             height="175px"  
             src="https://github-readme-streak-stats.herokuapp.com/?user=kimanigitau01&&theme=tokyonight" alt="kimanigitau01"
             height="192px" 
-            width="49.5%"/>
+            width="49.5%"/> -->
         </a>
         <br><br>
         <img align="center" 
