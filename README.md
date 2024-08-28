@@ -1,26 +1,5 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=C61FF7&width=435&lines=Hello+There+%F0%9F%91%8B%2C+I'm+Manasseh+Gitau%2C;An+Embedded+software+Developer%2C;Electronics+Hobbyist+and+Tinkerer%2C;Aspiring+Embedded+IoT+Engineer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=C61FF7&width=435&lines=Hello+There+%F0%9F%91%8B%2C+I'm+Manasseh+Gitau%2C;A+Software+Developer%2C;Aspiring+IoT+Developer)](https://git.io/typing-svg)
 
-<p align="left"> <a href="https://twitter.com/GitauManasseh" target="blank"><img src="https://img.shields.io/twitter/follow/GitauManasseh?logo=twitter&style=for-the-badge" alt="GitauManasseh" /></a> </p>
-
-- 🔭 I’m currently working on Waba Yangu
-
-- 🌱 I’m currently learning **PCB design, embedded systems and  IoT**
-
-- 👯 I’m looking to collaborate on **Robotics, PCB design, product design and IoT-based projects**
-
-- 🤝 I’m looking for help with embedded hardware.
-
-- 📝 I regularly write articles on [Medium](https://medium.com/)
-
-- 💬 Ask me about **IoT development, product design and embedded systems.**
-
-- ⚡ Fun fact **perpetual Motion is my daily routine**
-___
-<h3 align="left">My Tech Stack 💻🤓 </h3>
-
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://kicad-pcb.org/" target="_blank"><img src="https://cdn.icon-icons.com/icons2/1381/PNG/512/kicad_94309.png" alt="KiCad" width="50" height="50"></a><a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a></p>
-
----
 
 ### Stats 🦾🥇:
 <details open="">
