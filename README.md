@@ -1,5 +1,21 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=C61FF7&width=435&lines=Hello+There+%F0%9F%91%8B%2C+I'm+Manasseh+Gitau%2C;A+Software+Developer%2C;Aspiring+IoT+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Arima&pause=1000&width=435&lines=Hello+there++%F0%9F%91%8B%F0%9F%8F%BD%2C+I+am+Manasseh+Gitau%2C;A+software+Engineer+%F0%9F%91%A8%F0%9F%8F%BD%E2%80%8D%F0%9F%94%AC%2C;+all+things+IoT+and+distributed+systems+%F0%9F%A7%91%F0%9F%8F%BD%E2%80%8D%F0%9F%92%BB%2C;Always+learning+new+stuff+%F0%9F%93%96.)](https://git.io/typing-svg)
 
+## Hey there! 👋
+I'm Manasseh Gitau, a tech enthusiast and software engineer on a mission to reshape the world through innovation and cutting-edge tech.
+
+- 💻 Currently building Waba Yangu.
+- 🔭 Passionate about distributed computing, cloud tech, AI, and the endless possibilities of IoT and full-stack applications. 
+- 🔍 I thrive at the intersection of software engineering and electronics, always chasing the next big breakthrough.
+
+## 🎯 Goals
+
+- To become a leader in research, particularly in cloud computing and distributed systems.
+- Dominate hackathons, contribute to game-changing projects and solve real-world problems.
+
+## ⚙️ Tech Vibes
+Zsh > Bash, VS Code > any IDE, Python, C++, Golang and javascript are my go-to languages. Also, I'm all about mastering systems that balance reliability (LTS) with innovation.
+
+> Let’s collaborate, break barriers, and make tomorrow’s tech smarter and more sustainable! 🚀
 
 ### My Stats 🦾🥇:
 <p align="center">
