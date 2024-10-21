@@ -13,7 +13,8 @@ I'm Manasseh Gitau, a tech enthusiast and software engineer on a mission to resh
 - Dominate hackathons, contribute to game-changing projects and solve real-world problems.
 
 ## ⚙️ Tech Vibes
-Zsh > Bash, VS Code > any IDE, Python, C++, Golang and javascript are my go-to languages. Also, I'm all about mastering systems that balance reliability (LTS) with innovation.
+Zsh over Bash, VS Code over any IDE, Python, C++, Golang and javascript are my go-to languages.
+
 
 > Let’s collaborate, break barriers, and make tomorrow’s tech smarter and more sustainable! 🚀
 
