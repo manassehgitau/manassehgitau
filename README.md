@@ -1,5 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Arima&pause=1000&width=435&lines=Hello+there++%F0%9F%91%8B%F0%9F%8F%BD%2C+I+am+Manasseh+Gitau%2C;A+software+Engineer+%F0%9F%91%A8%F0%9F%8F%BD%E2%80%8D%F0%9F%94%AC%2C;+all+things+IoT+and+distributed+systems+%F0%9F%A7%91%F0%9F%8F%BD%E2%80%8D%F0%9F%92%BB%2C;Always+learning+new+stuff+%F0%9F%93%96.)](https://git.io/typing-svg)
-
+___
 ## Hey there! 👋
 I'm Manasseh Gitau, a tech enthusiast and software engineer on a mission to reshape the world through innovation and cutting-edge tech.
 
@@ -17,16 +17,18 @@ Zsh over Bash, VS Code over any IDE, Python, C++, Golang and javascript are my g
 
 
 > Let’s collaborate, break barriers, and make tomorrow’s tech smarter and more sustainable! 🚀
-
-### My Stats 🦾🥇:
+___
+## My Stats 🦾🥇
 <p align="center">
         <br><br>
         <img align="center" 
-        src="https://github-readme-stats.vercel.app/api/wakatime?username=kimanigitau01&layout=compact&theme=tokyonight" alt="kimanigitau01"/>
+        src ="https://github-readme-stats.vercel.app/api/top-langs/?username=kimanigitau01&layout=compact&theme=tokyonight" alt="kimanigitau01"/>
+        <img align="center" 
+        src ="https://github-readme-stats.vercel.app/api?username=kimanigitau01&show_icons=true&hide_border=false&theme=tokyonight" alt="kimanigitau01"/>
         <br><br>
 </p>
 
-#### Connect with Me:   
+## Connect with Me
 
 <p align="left">
 <a href="https://twitter.com/GitauManasseh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="GitauManasseh" height="30" width="40" /></a>
