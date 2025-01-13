@@ -4,16 +4,16 @@ ___
 I am Manasseh Gitau, a tech enthusiast and software engineer on a mission to reshape the world through innovation and cutting-edge tech.
 
 - 💻 Currently building Waba Yangu.
-- 🔭 Passionate about IoT, embedded software, and the endless possibilities of backend applications. 
+- 🔭 Passionate about backend systems, embedded software, and the endless possibilities of IoT. 
 - 🔍 I thrive at the intersection of software engineering and electronics, always chasing the next big breakthrough.
 
 ## 🎯 Goals
 
-- To become a leader in research, particularly in cloud computing and distributed systems.
-- Dominate hackathons, contribute to game-changing projects and solve real-world problems.
+- To become a leader in research, particularly in cloud computing, IoT and distributed systems.
+- Contribute to game-changing projects and solve real-world problems.
 
 ## ⚙️ Tech Vibes
-Zsh over Bash, VS Code over any IDE, Python, C++, Golang and javascript are my go-to languages.
+Zsh over Bash, VS Code over any IDE, Python, C++ and javascript are my go-to languages.
 
 
 > Let’s collaborate, break barriers, and make tomorrow’s tech smarter and more sustainable! 🚀
