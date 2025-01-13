@@ -24,7 +24,7 @@ ___
         <img align="center" 
         src ="https://github-readme-stats.vercel.app/api/wakatime?username=kimanigitau01&layout=compact&theme=tokyonight" alt="kimanigitau01"/>
         <img align="center" 
-        src ="https://github-readme-stats.vercel.app/api?username=kimanigitau01&show_icons=true&hide_border=false&theme=tokyonight" alt="kimanigitau01"/>
+        src ="https://github-readme-stats.vercel.app/api?username=manassehgitau&show_icons=true&hide_border=false&theme=tokyonight" alt="kimanigitau01"/>
         <br><br>
 </p>
 
