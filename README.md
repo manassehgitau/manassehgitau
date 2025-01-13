@@ -38,5 +38,5 @@ ___
 <a href="https://www.leetcode.com/kimanigitau01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="kimanigitau01" height="30" width="40" /></a>
 </p>
 <a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=kimanigitau01&label=Profile%20Views&color=1&icon=0&pretty=false" />
+  <img src="https://visitcount.itsvg.in/api?id=manassehgitau&label=Profile%20Views&color=1&icon=0&pretty=false" />
 </a>
