@@ -1,5 +1,6 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Arima&pause=1000&width=435&lines=Hello+there++%F0%9F%91%8B%F0%9F%8F%BD%2C+I+am+Manasseh+Gitau%2C;A+software+Engineer+%F0%9F%91%A8%F0%9F%8F%BD%E2%80%8D%F0%9F%94%AC%2C;+All+things+IoT+and+backend+systems+%F0%9F%A7%91%F0%9F%8F%BD%E2%80%8D%F0%9F%92%BB%2C;Always+learning+new+stuff+%F0%9F%93%96.)](https://git.io/typing-svg)
+<!-- [![Typing SVG](https://readme-typing-svg.demolab.com?font=Arima&pause=1000&width=435&lines=Hello+there++%F0%9F%91%8B%F0%9F%8F%BD%2C+I+am+Manasseh+Gitau%2C;A+software+Engineer+%F0%9F%91%A8%F0%9F%8F%BD%E2%80%8D%F0%9F%94%AC%2C;+All+things+IoT+and+backend+systems+%F0%9F%A7%91%F0%9F%8F%BD%E2%80%8D%F0%9F%92%BB%2C;Always+learning+new+stuff+%F0%9F%93%96.)](https://git.io/typing-svg)
 ___
+-->
 ## Hey there! 👋
 I am Manasseh Gitau, a tech enthusiast and software engineer on a mission to reshape the world through innovation and cutting-edge tech.
 
