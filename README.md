@@ -1,6 +1,3 @@
-<!-- [![Typing SVG](https://readme-typing-svg.demolab.com?font=Arima&pause=1000&width=435&lines=Hello+there++%F0%9F%91%8B%F0%9F%8F%BD%2C+I+am+Manasseh+Gitau%2C;A+software+Engineer+%F0%9F%91%A8%F0%9F%8F%BD%E2%80%8D%F0%9F%94%AC%2C;+All+things+IoT+and+backend+systems+%F0%9F%A7%91%F0%9F%8F%BD%E2%80%8D%F0%9F%92%BB%2C;Always+learning+new+stuff+%F0%9F%93%96.)](https://git.io/typing-svg)
-___
--->
 ## Hey there! 👋
 I am Manasseh Gitau, a tech enthusiast and software engineer on a mission to reshape the world through innovation and cutting-edge tech.
 
@@ -8,18 +5,18 @@ I am Manasseh Gitau, a tech enthusiast and software engineer on a mission to res
 - 🔭 Passionate about backend systems, embedded software, and the endless possibilities of IoT. 
 - 🔍 I thrive at the intersection of software engineering and electronics, always chasing the next big breakthrough.
 
-## 🎯 Goals
+## Goals
 
 - To become a leader in research, particularly in cloud computing, IoT and distributed systems.
 - Contribute to game-changing projects and solve real-world problems.
 
-## ⚙️ Tech Vibes
+## Tech Stack
 Zsh over Bash, VS Code over any IDE, Python, C++ and javascript are my go-to languages.
 
 
-> Let’s collaborate, break barriers, and make tomorrow’s tech smarter and more sustainable! 🚀
+> Let’s collaborate, break barriers, and make tomorrow’s tech smarter and more sustainable! 
 ___
-## My Stats 🦾🥇
+## My Stats
 <p align="center">
         <br><br>
         <img align="center" 
@@ -38,6 +35,3 @@ ___
 <a href="https://medium.com/@gitaumanasseh1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@gitaumanasseh1" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/kimanigitau01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="kimanigitau01" height="30" width="40" /></a>
 </p>
-<a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=manassehgitau&label=Profile%20Views&color=1&icon=0&pretty=false" />
-</a>
