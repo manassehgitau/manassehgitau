@@ -1,7 +1,7 @@
 ## Hey there! 👋
 I am Manasseh Gitau, a tech enthusiast and software engineer on a mission to reshape the world through innovation and cutting-edge tech.
 
-- 💻 Currently building Waba Yangu.
+- 💻 Currently building Dira.
 - 🔭 Passionate about backend systems, embedded software, and the endless possibilities of IoT. 
 - 🔍 I thrive at the intersection of software engineering and electronics, always chasing the next big breakthrough.
 
