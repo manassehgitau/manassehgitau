@@ -17,14 +17,7 @@ Zsh over Bash, VS Code over any IDE, Python, C++ and javascript are my go-to lan
 > Let’s collaborate, break barriers, and make tomorrow’s tech smarter and more sustainable! 
 ___
 ## My Stats
-<p align="center">
-        <br><br>
-        <img align="center" 
-        src ="https://github-readme-stats.vercel.app/api/wakatime?username=manassehgitau&layout=compact&theme=tokyonight" alt="kimanigitau01"/>
-        <img align="center" 
-        src ="https://github-readme-stats.vercel.app/api?username=manassehgitau&show_icons=true&hide_border=false&theme=tokyonight" alt="kimanigitau01"/>
-        <br><br>
-</p>
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@manassehgitau/7f522e76-2c90-434e-9d02-4f6cd58204c1.png" /></a>
 
 ## Connect with Me
 
