@@ -1,7 +1,7 @@
 ## Hey there! 👋
 I am Manasseh Gitau, a tech enthusiast and software engineer on a mission to reshape the world through innovation and cutting-edge tech.
 
-- 💻 Currently building Waba Yangu.
+- 💻 Currently building Compass.
 - 🔭 Passionate about backend systems, software design, and the endless possibilities of IoT. 
 - 🔍 I thrive at the intersection of software engineering and electronics, always chasing the next big breakthrough.
 
@@ -21,9 +21,6 @@ ___
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=manassehgitau&theme=nord" width="49%" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manassehgitau&layout=compact&theme=nord" width="60%" />
-</p>
 
 > Let’s collaborate, break barriers, and make tomorrow’s tech smarter and more sustainable! 
 
