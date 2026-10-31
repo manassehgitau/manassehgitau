@@ -1,7 +1,7 @@
 ## Hey there! 👋
 I am Manasseh Gitau, a tech enthusiast and software engineer on a mission to reshape the world through innovation and cutting-edge tech.
 
-- 💻 Currently building Compass.
+- 💻 Currently building [Rukia](https://rukialabs.com).
 - 🔭 Passionate about backend systems, software design, and the endless possibilities of IoT. 
 - 🔍 I thrive at the intersection of software engineering and electronics, always chasing the next big breakthrough.
 
